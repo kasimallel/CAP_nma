@@ -30,6 +30,9 @@ Secondary outcomes included:
 ## Reproducibility
 All analyses were conducted using reproducible workflows. Scripts are organised to allow stepwise reproduction of data preparation, model fitting, and result generation.
 
+## Supplementary Excel file
+A Supplementary Excel file containing all extracted data can be downloaded from the 'Extracted Dataset' folder
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
